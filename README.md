@@ -32,3 +32,8 @@
   * En Hosting Compartido
   * En GitHubPages
   * En Firebase
+
+### Ver Proyecto en Producción
+
+* [Desde Firebase Hosting](https://edfirebase-6f24b.firebaseapp.com/)
+* [Desde GitHub Pages](https://jonmircha.github.io/edsitio-dinamico2018/)
